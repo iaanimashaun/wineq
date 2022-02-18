@@ -3,10 +3,10 @@ name: Python application
 on:
   push:
     branches:
-    - main
+    - m
   pull_request:
     branches:
-    - main
+    - m
 
 jobs:
   build:
